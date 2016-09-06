@@ -11,6 +11,13 @@ web.py 框架的源码注解
 - [Remarkable web.py and Aaron Swartz](http://kjam.org/cn/category/jam.html)
 
 
+## web.py 项目:
+
+- [官网](http://webpy.org/)
+- [web.py - github](https://github.com/webpy/webpy)
+
+
+
 ## web.py v0.1:
 
 - [web.py - v0.1](http://webpy.org/static/web.py)
