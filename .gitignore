@@ -51,14 +51,6 @@ coverage.xml
 
 # Django stuff:
 *.log
-local_settings.py
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
 
 # Sphinx documentation
 docs/_build/
@@ -66,24 +58,28 @@ docs/_build/
 # PyBuilder
 target/
 
-# IPython Notebook
-.ipynb_checkpoints
 
-# pyenv
-.python-version
+*.pyc
+*~
+build
+tornado.egg-info
 
-# celery beat schedule file
-celerybeat-schedule
 
-# dotenv
-.env
+*.pyo
+*.class
+/dist/
+MANIFEST
+/tornado.egg-info/
+.vagrant
+/.coverage
+/htmlcov/
+/env/
+# Used in demo apps
+secrets.cfg
 
-# virtualenv
-venv/
-ENV/
+# add 2016
+.idea/
+.DS_Store
 
-# Spyder project settings
-.spyderproject
-
-# Rope project settings
-.ropeproject
+src/tornado-4.2.0/docs/
+tmp/
