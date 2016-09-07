@@ -23,6 +23,6 @@ web.py 框架的源码注解
 - [web.py - v0.1](http://webpy.org/static/web.py)
     - 在官网上这个版本一直没有被删除
     - version: 0.1381
-    
-    
+    - 已阅读全部模块, 初步注解, 整体结构跟 flask, bottle 很相似
+    - 代码写的很清晰易读, 没有难理解的魔法. 不需要过多解释
 
